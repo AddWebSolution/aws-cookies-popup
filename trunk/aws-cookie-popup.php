@@ -2,7 +2,7 @@
 /*
 Plugin Name: Addweb Cookies Popup
 Description: Open cookie notification message popup
-Version: 1.5.2
+Version: 1.5.1
 Author: AddWeb Solution Pvt. Ltd.
 Author URI: http://www.addwebsolution.com
 Text Domain: aws-cookie-popup
